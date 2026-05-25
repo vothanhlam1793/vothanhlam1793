@@ -1,14 +1,20 @@
-# Tal Tal
-
 ```txt
-fullstack engineer
-systems-minded builder
-monitoring | tooling | automation | infrastructure
+┌──────────────────────────────────────────────────────────────┐
+│  Tal Tal                                                    │
+│  fullstack engineer                                         │
+│  systems-minded builder                                     │
+│  monitoring | tooling | automation | infrastructure         │
+└──────────────────────────────────────────────────────────────┘
 ```
 
 I build practical software that has to work outside the happy path.
 
 From backend services and internal tools to device-connected flows and Docker-based environments, I like tracing how systems behave in real conditions and making them easier to operate.
+
+```txt
+$ whoami
+tal tal
+```
 
 ## Now
 
@@ -50,13 +56,14 @@ I prefer software that is:
 
 I usually care more about useful systems than flashy stacks.
 
-## Find Me
-
-- GitHub: [@vothanhlam1793](https://github.com/vothanhlam1793)
-- Location: Ho Chi Minh City, Vietnam
-
 ```txt
+$ cat principles.txt
 build useful systems
 understand the runtime
 keep the stack honest
 ```
+
+## Find Me
+
+- GitHub: [@vothanhlam1793](https://github.com/vothanhlam1793)
+- Location: Ho Chi Minh City, Vietnam
