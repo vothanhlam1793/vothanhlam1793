@@ -1,39 +1,52 @@
 ```txt
 ┌──────────────────────────────────────────────────────────────┐
 │  Tal Tal                                                    │
+│  quiet systems builder                                      │
 │  fullstack engineer                                         │
-│  systems-minded builder                                     │
 │  monitoring | tooling | automation | infrastructure         │
 └──────────────────────────────────────────────────────────────┘
 ```
 
-I build practical software that has to work outside the happy path.
+> Build useful systems. Understand the runtime. Keep the stack honest.
 
-From backend services and internal tools to device-connected flows and Docker-based environments, I like tracing how systems behave in real conditions and making them easier to operate.
+I build practical software across backend services, internal tooling, connected-device flows, and Docker-based environments.
+
+I like systems that can be observed, debugged, and kept alive under real constraints.
+
+## Identity
 
 ```txt
 $ whoami
-tal tal
+Tal Tal
+
+$ profile
+systems-minded fullstack engineer
+
+$ known_for
+practical software, monitoring flows, automation, runtime thinking
 ```
 
-## Now
+## Focus
 
-- Building backend services and operational tooling
-- Working across Node.js, Docker, Linux, and MySQL
-- Interested in monitoring, runtime behavior, and connected systems
+```txt
+current[0] = backend services
+current[1] = monitoring and operational tooling
+current[2] = device-connected communication flows
+current[3] = dockerized environments and Linux-based workflows
+```
 
 ## Stack
 
 ```txt
 Languages  : JavaScript, C/C++, Shell, SQL
 Backend    : Node.js, TCP servers, service logic
-Frontend   : Express, EJS, web interfaces
+Frontend   : Express, EJS
 Data       : MySQL
 Infra      : Docker, Docker Compose, Linux
-Focus      : Monitoring, automation, device communication
+Domain     : Monitoring, automation, device communication
 ```
 
-## Selected Work
+## Signals
 
 ### monitor-server
 Node.js TCP monitoring server for connected devices.
@@ -42,28 +55,20 @@ Built around client connection management, keep-alive checks, runtime status tra
 ### multi
 Practical multi-service Docker setup for quickly bringing up Node.js and MySQL environments.
 
-### device-side exploration
+### embedded exploration
 Ongoing exploration around ESP8266, serial communication, and lower-level system behavior.
 
-## Engineering Notes
-
-I prefer software that is:
-
-- observable
-- debuggable
-- simple enough to evolve
-- practical to run and maintain
-
-I usually care more about useful systems than flashy stacks.
+## Principles
 
 ```txt
-$ cat principles.txt
-build useful systems
-understand the runtime
-keep the stack honest
+01. useful beats flashy
+02. observability matters
+03. trace the whole stack
+04. automate repeated work
+05. keep systems understandable
 ```
 
-## Find Me
+## Presence
 
 - GitHub: [@vothanhlam1793](https://github.com/vothanhlam1793)
 - Location: Ho Chi Minh City, Vietnam
